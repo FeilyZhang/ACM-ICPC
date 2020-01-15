@@ -14,6 +14,11 @@ public class BitNum {
         return i + 1;
     }
     
+    public static int bitNumAno(int n) {
+        if (n < 10) return 1;
+        return 1 + bitNumAno(n / 10);
+    }
+    
     public static void eachDigit(int n) {
         while (n > 9) {
             System.out.print(n % 10 + " ");
@@ -24,6 +29,7 @@ public class BitNum {
     
     public static void main(String[] args) {
         System.out.println(bitNum(198564));
+        System.out.println(bitNumAno(198564));
         eachDigit(198564);
     }
 
