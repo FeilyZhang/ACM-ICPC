@@ -1,6 +1,6 @@
 # ACM-ICPC
 
-ACM-ICPC algorithm training, include Evaluation、Recurrence、Recursion、Enumeration、Divide and conquer、Reduce and Conquer、Separate and Conquer etc.
+ACM-ICPC algorithm training, include Evaluation, Recurrence, Recursion, Enumeration, Divide and conquer, Reduce and Conquer, Separate and Conquer etc.
 
 ## Evaluation
 
