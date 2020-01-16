@@ -16,7 +16,7 @@ public class TriangleArea {
     public static void calArea(double a, double b, double c) {
         if (isTriangle(a, b, c)) {
             double p = (a + b + c) / 2.0;
-            System.out.println( Math.sqrt(p * (p - a) * (p - b) * (p - c)));
+            System.out.println(Math.sqrt(p * (p - a) * (p - b) * (p - c)));
         } else {
             System.out.println("NO");
         }
