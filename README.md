@@ -12,3 +12,5 @@ ACM-ICPC algorithm training, include Evaluation, Recurrence, Recursion, Enumerat
 6. [Given an integer array, calculate its median and average.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/MidAndAvg.java)
 7. [Given two numbers, calculate all the twin prime numbers between them.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/TwinPrime.java)
 8. [Give a date and decide which day of the year it is.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/WhichDay.java)
+9. [Given an odd number, calculate the approximate value of pi by general formula.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/Pi.java)
+10. [Given an integer, calculate its factorial sums in its range.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/FactorialSums.java)
