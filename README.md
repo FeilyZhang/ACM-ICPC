@@ -14,3 +14,4 @@ ACM-ICPC algorithm training, include Evaluation, Recurrence, Recursion, Enumerat
 8. [Given a date and decide which day of the year it is.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/WhichDay.java)
 9. [Given an odd number, calculate the approximate value of pi by general formula.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/Pi.java)
 10. [Given an integer, calculate its factorial sums in its range.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/FactorialSums.java)
+11. [Given any two integers, the greatest common divisor is calculated by Euclid algorithm.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/GreatestCommonDivisor.java)
