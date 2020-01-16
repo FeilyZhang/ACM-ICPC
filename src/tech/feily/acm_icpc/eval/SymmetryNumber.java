@@ -9,8 +9,8 @@ public class SymmetryNumber {
         for (int i = 1000; i < 10000; i++) {
             int l = 0, h = 0, s = 0;
             int n = i, d = 1000;
-            while (d > 0) {
-                // extract low bit and high bit firstly¡£
+            while (d != 0) {
+                // extract low bit and high bit firstly.
                 l = n % 10;
                 h = n / d;
                 // If high and low are not equal, break directly.
