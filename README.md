@@ -16,3 +16,4 @@ ACM-ICPC algorithm training, include Evaluation, Recurrence, Recursion, Enumerat
 10. [Given an integer, calculate its factorial sums in its range.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/FactorialSums.java)
 11. [Given any two integers, the greatest common divisor is calculated by Euclid algorithm.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/GreatestCommonDivisor.java)
 12. [Given any three integers, the area of triangle is calculated by Heron's formula.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/TriangleArea.java)
+13. [Output all four digit symmetrical numbers, and the sum of each digit is required to be 10.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/SymmetryNumber.java)
