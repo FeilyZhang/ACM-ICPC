@@ -1,5 +1,8 @@
 package tech.feily.acm_icpc.eval;
 
+/*
+ * Given an integer, calculate its factorial sums in its range.
+ */
 public class FactorialSums {
 
     public static int fac(int n) {
