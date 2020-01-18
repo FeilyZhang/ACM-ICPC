@@ -4,13 +4,13 @@ Strictly speaking, it only uses ACM-ICPC training questions to train algorithm d
 
 Source of problem:
 
-> + Direct source:
->   1. <i>滕国文,李昊. ACM-ICPC基本算法. 北京大学出版社</i>
-> + Indirect source:
->   1. Peking University ONLINE JUDGE(POJ);
->   2. Jilin Normal University ONLINE JUDGE(JLOJ);
->   3. Zhejiang University ONLINE JUDGE(ZOJ);
->   4. Hangzhou University of Electronic Science and technology ONLINE JUDGE(HDOJ).
+ + Direct source:
+   1. <i>滕国文,李昊. ACM-ICPC基本算法. 北京大学出版社</i>
+ + Indirect source:
+   1. Peking University ONLINE JUDGE(POJ);
+   2. Jilin Normal University ONLINE JUDGE(JLOJ);
+   3. Zhejiang University ONLINE JUDGE(ZOJ);
+   4. Hangzhou University of Electronic Science and technology ONLINE JUDGE(HDOJ).
   
 ## Evaluation
 
