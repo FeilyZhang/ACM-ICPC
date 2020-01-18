@@ -1,4 +1,4 @@
-package tech.feily.acm_icpc.eval;
+package tech.feily.acm_icpc.recur;
 
 /*
  * Fibonacci sequence, namely rabbit breeding problems.
