@@ -1,6 +1,6 @@
 # ACM-ICPC
 
-ACM-ICPC algorithm training, include Evaluation, Recursion, Enumeration, Divide and conquer, Reduce and Conquer, Separate and Conquer etc.
+Strictly speaking, it only uses ACM-ICPC training questions to train algorithm design ideas, and does not strictly comply with ACM-ICPC problem format.
 
 ## Evaluation
 
