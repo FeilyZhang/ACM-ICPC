@@ -5,7 +5,7 @@ Strictly speaking, it only uses ACM-ICPC training questions to train algorithm d
 Source of problem:
 
  + Direct source:
-   1. <i>滕国文,李昊. ACM-ICPC基本算法. 北京大学出版社</i>
+   1. 滕国文,李昊. ACM-ICPC基本算法. 北京大学出版社
  + Indirect source:
    1. Peking University ONLINE JUDGE(POJ);
    2. Jilin Normal University ONLINE JUDGE(JLOJ);
@@ -33,5 +33,5 @@ Source of problem:
 ## Recursion
 
 1. [Fibonacci sequence, namely rabbit breeding problems.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/Fabonacii.java)
-2. [Maximum common divisor problem](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/GreatestCommonDivisor.java)
+2. [Maximum common divisor problem.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/GreatestCommonDivisor.java)
 3. [Given a parameter n, calculate the corresponding Yanghui triangle.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/YHTriangle.java)
