@@ -2,6 +2,16 @@
 
 Strictly speaking, it only uses ACM-ICPC training questions to train algorithm design ideas, and does not strictly comply with ACM-ICPC problem format.
 
+Source of problem:
+
++ Direct source:
+  1. <i>ACM-ICPC»ù±¾Ëã·¨</i>
++ Indirect source:
+  1. Peking University ONLINE JUDGE(POJ);
+  2. Jilin Normal University ONLINE JUDGE(JLOJ);
+  3. Zhejiang University ONLINE JUDGE(ZOJ);
+  4. Hangzhou University of Electronic Science and technology ONLINE JUDGE(HDOJ).
+  
 ## Evaluation
 
 1. [Given an integer, determine its total number of bits.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/BitNum.java)
