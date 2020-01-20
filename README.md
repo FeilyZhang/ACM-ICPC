@@ -35,3 +35,5 @@ Source of problem:
 1. [Fibonacci sequence, namely rabbit breeding problems.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/Fabonacii.java)
 2. [Maximum common divisor problem.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/eval/GreatestCommonDivisor.java)
 3. [Given a parameter n, calculate the corresponding Yanghui triangle.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/YHTriangle.java)
+4. [Ask for someone's age.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/Years.java)
+5. [The sum of Fabonacii sequence.](https://github.com/FeilyZhang/ACM-ICPC/blob/master/src/tech/feily/acm_icpc/recur/FabSum.java)
